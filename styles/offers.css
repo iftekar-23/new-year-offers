@@ -8,6 +8,9 @@
     height: 600px;
     background-image: url(../images/Banner\ Image.png);
     margin: 50px auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
 
 }
 .header-section{
@@ -16,8 +19,7 @@
     height: 242px;
     color:#FFFFFF;
     margin: 0 auto;
-    text-align: center;
-    align-items: center;
+    
     /* margin: 177px 344px; */
     
 }
@@ -125,6 +127,8 @@ header section  h3{
     height: 482px;
     background-color: rgb(190, 216, 238);
     margin: 101px auto;
+    display: flex;
+    align-items: center;
     
 }
 
