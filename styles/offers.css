@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    max-width: 1320px;
+    height: 600px;
+    background-image: url(../images/Banner\ Image.png);
+    margin: 50px auto;
+
+}
+.header-section{
+    border: 2px solid red;
+    width: 632px;
+    height: 242px;
+    color:#FFFFFF;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    /* margin: 177px 344px; */
+    
+}
+.header div{
+    align-items: center;
+}
+
+header section h1{
+    align-items: center;
+    width: 632px;
+    height: 132px;
+    font-size: 60px;
+}
+
+header section  h3{
+    margin: 0 auto;
+    width: 259px;
+    height: 40px;
+    font-size: 32px;
+}
+
+
+
+/* banner 2 */
+
+.banner2{
+    max-width: 803px;
+    height: 806px;
+    margin: 60px auto;
+
+}
+.banner2 h1{
+    width: 387px;
+    height: 107px;
+    color: #FF0000;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 87px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.banner2 h3{
+    width: 397px;
+    height: 24px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #FF0000;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 38px;
+}
+.banner2 h2{
+    width: 410px;
+    height: 58px;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 18px;
+}
+
+/* banner 3 */
+
+.banner3{
+    max-width: 1320px;
+    height: 600px;
+    border: 1px solid green;
+    border-radius: 17px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background-image: url(../images/Vectorrr.png);
+}
+.banner3 div{
+    margin: 126px 552px 258px 126px;
+}
+.banner3 h1{
+    width: 642px;
+    height: 176px;
+    color: #FFFFFF;
+    font-size: 64px;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.banner3 p{
+    width: 697px;
+    height: 60px;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+.banner3 button{
+    width: 103px;
+    height: 24px;
+    background-color: none;
+    font-weight: bold;
+    font-size: 20px;
+    color:steelblue;
+}
+
+/* banner 4 */
+.banner4{
+    max-width: 1320px;
+    height: 482px;
+    background-color: rgb(190, 216, 238);
+    margin: 101px auto;
+    
+}
+
+
+.banner4 div{
+    width: 549px;
+    height: 272px;
+    border: 1px solid black;
+    margin: 110px 385px;
+
+}
+.banner4 div h3{
+    font-weight: 800;
+    font-size: 32px;
+    text-align: center;
+}
+.banner4 div span{
+    color: #FF0000;
+}
+
+.banner4 div button{
+    width: 130px;
+    height: 46px;
+    color: #FFFFFF;
+    background-color: #FF0000;
+    margin-top: 45px;
+}
